@@ -1,5 +1,7 @@
 # grow-lab
 
+This is a repository that documents the progress on a branch of the [growlab-project][2].
+
 ## set up raspi image ...
 
 ... after not having used an old pi for a loooong time, the and just to have a fresh start taking the SD card of the old pi
@@ -12,3 +14,4 @@ Found this [resource][1] and the following steps helped:
 - using `sudo diskutil eraseDisk FAT32 SDCARD MBRFormat /dev/disk2` to format it with FAT32 and name `SDCARD` 
 
 [1]: https://thomas.vanhoutte.be/miniblog/reclaim-the-full-storage-capacity-of-an-sd-card-on-macos/ 'link formatting sd card on terminal'
+[2]: https://github.com/alexellis/growlab 'link to the github page of the growlab project'
