@@ -19,5 +19,9 @@ after inserting the camera cable into the respective slot at the pi the followin
 
 - `libcamera-hello`
 
+to run the preview infinitely use
+
+- `libcamera-hello -t 0`
+
 [1]: https://thomas.vanhoutte.be/miniblog/reclaim-the-full-storage-capacity-of-an-sd-card-on-macos/ "link formatting sd card on terminal"
 [2]: https://github.com/alexellis/growlab "link to the github page of the growlab project"
